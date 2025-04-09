@@ -1,0 +1,1 @@
+map_list fn a b next = map fn [a, a + next .. b]

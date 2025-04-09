@@ -1,0 +1,1 @@
+redact s = map(\x -> if x == ' ' then ' ' else '*') s

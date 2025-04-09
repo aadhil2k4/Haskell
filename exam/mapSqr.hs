@@ -1,0 +1,1 @@
+map_list a b next = [ x*x | x<-[a, a+next .. b]]
